@@ -78,7 +78,7 @@ a{
 }
 .subtittle{
     color: var(--color-light-gray);
-    font-size: 15px;
+    font-size: 35px;
     font-weight: 500;
     margin-bottom: 20px;
     opacity: 0.8;
